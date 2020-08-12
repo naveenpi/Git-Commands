@@ -74,4 +74,5 @@ _A list of my commonly used Git commands_
 ### Curl commands
 
 | Command | Description |
+| ------- | ----------- |
 | `curl -u USERNAME:PASSWORD https://api.github.com/user/repos -d '{"name":"myDirName"}'` | The command will create the repo in github |
