@@ -70,3 +70,7 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Curl commands
+| Command | Description |
+| `curl -u USERNAME:PASSWORD https://api.github.com/user/repos -d '{"name":"myDirName"}'` | The command will create the repo in github |
